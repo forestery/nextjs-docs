@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/forestery/nextjs-docs',
+  titleSuffix: ' – notery',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Notery</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
+        Notery by @forestery
       </span>
     </>
   ),
