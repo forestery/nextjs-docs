@@ -1,6 +1,6 @@
 {
   "index": "What is Nextra",
-  "features": "Features",
+  "features/index": "Features",
   "advanced": "Advanced",
   "docs": "Docs Theme",
   "blog": "Blog Theme"
