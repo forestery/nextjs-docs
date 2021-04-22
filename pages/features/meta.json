@@ -1,5 +1,6 @@
 {
   "mdx": "Markdown and React",
   "ssg": "SSG Support",
-  "i18n": "I18n"
+  "i18n": "I18n",
+  "livecode": "live code example"
 }
